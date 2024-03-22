@@ -29,8 +29,6 @@ Para executar esse passo a passo é necessário ter uma conta devidamente config
 
 ### Acessando o portal Azure
 
-![Img](prints/ai-brain.png)
-
 Ao acessar o portal de serviços do Azure você verá uma interface web que permite gerenciar e pesquisar recursos de forma fácil e intuitiva.
 
 O painel sugere as informações mais relevantes inicialmente, podendo ser personalizado para o seu cenário. Também é possível navegar pelos menus laterais para explorar os diferentes serviços, como computação, armazenamento, rede, banco de dados, inteligência artificial, entre outros. 
